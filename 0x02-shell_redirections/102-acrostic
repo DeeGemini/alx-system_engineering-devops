@@ -1,2 +1,2 @@
 #!/bin/bash
-ech "" cut -c 1 | paste -s -d "_"
+ech "acrostic" cut -c 1 | paste -s -d "_"`
